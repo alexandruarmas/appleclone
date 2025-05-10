@@ -36,9 +36,47 @@
 
     <!-- Title -->
     <title>Apple iPhone 15 Clone</title>
+    <style>
+      /* Error handling styles */
+      #error-display {
+        display: none;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(255, 0, 0, 0.8);
+        color: white;
+        padding: 10px;
+        z-index: 10000;
+        font-family: monospace;
+        white-space: pre-wrap;
+        max-height: 50vh;
+        overflow: auto;
+      }
+    </style>
   </head>
   <body>
     <div id="root"></div>
+    <div id="error-display"></div>
     <script type="module" src="/src/main.jsx"></script>
+    <script>
+      // Error handling
+      window.addEventListener('error', function(e) {
+        const errorDisplay = document.getElementById('error-display');
+        errorDisplay.style.display = 'block';
+        errorDisplay.textContent += e.message + ' at ' + e.filename + ':' + e.lineno + '\n';
+        console.error(e);
+      });
+
+      // Check if anything renders
+      setTimeout(() => {
+        const root = document.getElementById('root');
+        if (!root.children.length) {
+          const errorDisplay = document.getElementById('error-display');
+          errorDisplay.style.display = 'block';
+          errorDisplay.textContent += 'Nothing rendered in root element after 2 seconds\n';
+        }
+      }, 2000);
+    </script>
   </body>
 </html>

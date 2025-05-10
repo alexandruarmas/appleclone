@@ -12,7 +12,9 @@ import { useGLTF, useTexture } from "@react-three/drei";
 import * as THREE from "three";
 
 const IPhone = (props) => {
-  const { nodes, materials } = useGLTF("/models/scene.glb");
+  // Use import.meta.env.BASE_URL to get the base URL set in vite.config.js
+  const modelPath = import.meta.env.BASE_URL + 'models/scene.glb';
+  const { nodes, materials } = useGLTF(modelPath);
 
   const texture = useTexture(props.item.img);
 
@@ -259,4 +261,4 @@ const IPhone = (props) => {
 
 export default IPhone;
 
-useGLTF.preload("/models/scene.glb");
+useGLTF.preload(import.meta.env.BASE_URL + 'models/scene.glb');
