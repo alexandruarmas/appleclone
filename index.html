@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="ro">
   <head>
     <!-- UTF-8 Support -->
     <meta charset="UTF-8" />
@@ -15,7 +15,7 @@
       content="Site modern inspirat de iPhone 15 folosind animații Three.js și GSAP."
     />
     <!-- Author -->
-    <meta name="author" content="Sanidhya Kr. Verma" />
+    <meta name="author" content="Alexandru Armaș" />
 
     <!-- Keywords -->
     <meta
@@ -53,9 +53,40 @@
         max-height: 50vh;
         overflow: auto;
       }
+      /* Prevent white screen during loading */
+      body {
+        background-color: #000;
+        color: #fff;
+      }
+      #loading {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background-color: #000;
+        z-index: 9999;
+      }
+      .spinner {
+        width: 40px;
+        height: 40px;
+        border: 4px solid rgba(255, 255, 255, 0.1);
+        border-radius: 50%;
+        border-top-color: #fff;
+        animation: spin 1s ease-in-out infinite;
+      }
+      @keyframes spin {
+        to { transform: rotate(360deg); }
+      }
     </style>
   </head>
   <body>
+    <div id="loading">
+      <div class="spinner"></div>
+    </div>
     <div id="root"></div>
     <div id="error-display"></div>
     <script>
@@ -74,8 +105,16 @@
           const errorDisplay = document.getElementById('error-display');
           errorDisplay.style.display = 'block';
           errorDisplay.textContent += 'Nothing rendered in root element after 2 seconds\n';
+        } else {
+          // Hide loading spinner when content is rendered
+          document.getElementById('loading').style.display = 'none';
         }
       }, 2000);
+
+      // Hide loading after maximum time (5 seconds)
+      setTimeout(() => {
+        document.getElementById('loading').style.display = 'none';
+      }, 5000);
     </script>
     <script type="module" src="/src/main.jsx"></script>
   </body>
