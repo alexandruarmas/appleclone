@@ -86,4 +86,4 @@ export const footerLinks = [
   "Hartă Site",
 ];
 
-export const sourceCode = "https://github.com/sanidhyy/apple-clone";
+export const sourceCode = "https://github.com/mrarmas02/apple-clone";
