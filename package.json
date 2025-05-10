@@ -12,9 +12,9 @@
     "deploy": "gh-pages -d dist"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Alexandru Armaș",
+    "email": "contact@alexandruarmas.ro",
+    "url": "https://github.com/mrarmas02"
   },
   "description": "Modern iPhone 15 inspired website using Three.js and GSAP animations.",
   "keywords": [
@@ -47,21 +47,21 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/apple-clone.git"
+    "url": "https://github.com/alexandruarmas/appleclone.git"
   },
   "homepage": "https://alexandruarmas.github.io/appleclone",
   "bugs": {
-    "url": "https://github.com/sanidhyy/apple-clone/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "url": "https://github.com/alexandruarmas/appleclone/issues",
+    "email": "contact@alexandruarmas.ro"
   },
   "funding": [
     {
-      "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
+      "type": "website",
+      "url": "https://alexandruarmas.ro/"
     },
     {
       "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
+      "url": "https://www.buymeacoffee.com/alexandruarmas"
     }
   ],
   "dependencies": {
