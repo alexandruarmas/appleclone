@@ -182,7 +182,7 @@ const VideoCarousel = () => {
               <span
                 className="absolute size-full rounded-full"
                 ref={(el) => (videoSpanRef.current[i] = el)}
-                title="video progress bar"
+                title="bară de progres video"
               />
             </span>
           ))}
@@ -200,7 +200,7 @@ const VideoCarousel = () => {
         >
           <img
             src={isLastVideo ? replayImg : !isPlaying ? playImg : pauseImg}
-            alt={isLastVideo ? "Replay" : !isPlaying ? "Play" : "Pause"}
+            alt={isLastVideo ? "Reluare" : !isPlaying ? "Redare" : "Pauză"}
           />
         </button>
       </div>

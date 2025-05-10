@@ -24,13 +24,13 @@ const Navbar = () => {
 
         <div className="flex items-baseline gap-7 max-sm:flex-1 max-sm:justify-end">
           <a href="#">
-            <img src={searchImg} alt="Search" width={18} height={18} />
+            <img src={searchImg} alt="Căutare" width={18} height={18} />
           </a>
           <a href="#">
-            <img src={bagImg} alt="Bag" width={18} height={18} />
+            <img src={bagImg} alt="Coș" width={18} height={18} />
           </a>
           <a href={sourceCode} target="_blank" rel="noreferrer noopener">
-            <img src={githubImg} alt="Bag" width={18} height={18} />
+            <img src={githubImg} alt="GitHub" width={18} height={18} />
           </a>
         </div>
       </nav>

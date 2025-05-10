@@ -20,17 +20,17 @@ const Highlights = () => {
       <div className="screen-max-width">
         <div className="mb-12 w-full items-end justify-between md:flex">
           <h1 id="title" className="section-heading">
-            Get the highlights.
+            Descoperă punctele forte.
           </h1>
 
           <div className="flex flex-wrap items-end gap-5">
             <p className="link">
-              Watch the film
-              <img src={watchImg} alt="Watch" className="ml-2" />
+              Vizionează filmul
+              <img src={watchImg} alt="Vizionează" className="ml-2" />
             </p>
             <p className="link">
-              Watch the event
-              <img src={rightImg} alt="Right" className="ml-2" />
+              Vizionează evenimentul
+              <img src={rightImg} alt="Dreapta" className="ml-2" />
             </p>
           </div>
         </div>

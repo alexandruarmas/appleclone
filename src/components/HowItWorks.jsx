@@ -33,17 +33,17 @@ const HowItWorks = () => {
     <section className="common-padding">
       <div className="screen-max-width">
         <div id="chip" className="flex-center my-20 w-full">
-          <img src={chipImg} alt="Chip" width={180} height={180} />
+          <img src={chipImg} alt="Cip" width={180} height={180} />
         </div>
 
         <div className="flex flex-col items-center">
           <h2 className="hiw-title">
-            A17 Pro chip.
-            <br />A monster win for gaming.
+            Cipul A17 Pro.
+            <br />O victorie uriașă pentru gaming.
           </h2>
 
           <p className="hiw-subtitle">
-            It&apos;s here. The biggest redesign in the history of Apple GPUs
+            A sosit. Cel mai mare redesign din istoria GPU-urilor Apple
           </p>
         </div>
 
@@ -52,7 +52,7 @@ const HowItWorks = () => {
             <div className="overflow-hidden">
               <img
                 src={frameImg}
-                alt="Frame"
+                alt="Ramă"
                 className="relative z-10 bg-transparent"
               />
             </div>
@@ -78,26 +78,26 @@ const HowItWorks = () => {
         <div className="hiw-text-container">
           <div className="flex flex-1 flex-col justify-center">
             <p className="hiw-text g_fadeIn">
-              A17 Pro is an entirely new class of iPhone chip that delivers our{" "}
+              A17 Pro este o clasă complet nouă de cip iPhone care oferă{" "}
               <span className="text-white">
-                best graphic performance by far.
+                cele mai bune performanțe grafice de până acum.
               </span>{" "}
             </p>
 
             <br />
             <p className="hiw-text g_fadeIn">
-              Mobile{" "}
+              Jocurile mobile{" "}
               <span className="text-white">
-                games will look and feel so immersive
+                vor arăta și se vor simți incredibil de imersive
               </span>{" "}
-              with incredibly detailed environments and characters.
+              cu medii și personaje extrem de detaliate.
             </p>
           </div>
 
           <div className="g_fadeIn flex flex-1 flex-col justify-center">
-            <p className="hiw-text">New</p>
-            <p className="hiw-bigtext">Pro-class GPU</p>
-            <p className="hiw-text">with 6 cores</p>
+            <p className="hiw-text">Nou</p>
+            <p className="hiw-bigtext">GPU de clasă Pro</p>
+            <p className="hiw-text">cu 6 nuclee</p>
           </div>
         </div>
       </div>

@@ -8,20 +8,20 @@ const Footer = () => {
       <div className="screen-max-width">
         <div className="">
           <p className="text-gray text-xs font-semibold">
-            More ways to shop:{" "}
+            Mai multe moduri de a cumpăra:{" "}
             <span className="text-blue cursor-pointer hover:underline">
-              Find an Apple Store
+              Găsește un Apple Store
             </span>{" "}
-            or{" "}
+            sau{" "}
             <span className="text-blue cursor-pointer hover:underline">
-              other retailer
+              alt distribuitor
             </span>{" "}
-            near you.
+            în apropierea ta.
           </p>
           <p className="text-gray text-xs font-semibold">
-            Or call{" "}
+            Sau sună la{" "}
             <span className="text-blue cursor-pointer hover:underline">
-              (800) 555-0100
+              +40 800 555 0100
             </span>
             .
           </p>
@@ -31,8 +31,8 @@ const Footer = () => {
 
         <div className="flex flex-col justify-between md:flex-row md:items-center">
           <p className="text-gray text-xs font-semibold">
-            &copy; {new Date().getFullYear()} Apple Clone Inc. All rights
-            reserved.
+            &copy; {new Date().getFullYear()} Apple Clone Inc. Toate drepturile
+            rezervate.
           </p>
 
           <div className="flex">

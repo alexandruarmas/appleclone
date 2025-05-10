@@ -59,9 +59,9 @@ const Hero = () => {
         className="flex translate-y-20 flex-col items-center opacity-0"
       >
         <a href="#highlights" className="btn">
-          Buy
+          Cumpără
         </a>
-        <p className="text-xl font-normal">From $199/month or $999</p>
+        <p className="text-xl font-normal">De la 59€/lună sau 999€</p>
       </div>
     </section>
   );

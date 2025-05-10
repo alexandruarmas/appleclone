@@ -51,7 +51,7 @@ const Features = () => {
       <div className="screen-max-width">
         <div className="mb-12 w-full">
           <h1 id="features-title" className="section-heading">
-            Explore the full story.
+            Explorează povestea completă.
           </h1>
         </div>
 
@@ -59,7 +59,7 @@ const Features = () => {
           <div className="mb-24 mt-32 pl-24">
             <h2 className="text-5xl font-semibold lg:text-7xl">iPhone.</h2>
             <h2 className="text-5xl font-semibold lg:text-7xl">
-              Forged in titanium.
+              Forjat în titan.
             </h2>
           </div>
 
@@ -83,7 +83,7 @@ const Features = () => {
                 <div className="h-[50vh] flex-1 overflow-hidden">
                   <img
                     src={explore1Img}
-                    alt="Titanium"
+                    alt="Titan"
                     className="feature-video g_grow"
                   />
                 </div>
@@ -91,7 +91,7 @@ const Features = () => {
                 <div className="h-[50vh] flex-1 overflow-hidden">
                   <img
                     src={explore2Img}
-                    alt="Titanium 2"
+                    alt="Titan 2"
                     className="feature-video g_grow"
                   />
                 </div>
@@ -100,25 +100,21 @@ const Features = () => {
               <div className="feature-text-container">
                 <div className="flex-center flex-1">
                   <p className="feature-text g_text">
-                    iPhone 15 Pro is{" "}
+                    iPhone 15 Pro este{" "}
                     <span className="text-white">
-                      the first iPhone to feature an aerospace-grade titanium
-                      design
+                      primul iPhone cu un design din titan de calitate aerospațială
                     </span>{" "}
-                    using the same alloy that spacecrafts use for missions to
-                    Mars.
+                    folosind același aliaj utilizat pentru navele spațiale în misiunile spre Marte.
                   </p>
                 </div>
 
                 <div className="flex-center flex-1">
                   <p className="feature-text g_text">
-                    Titanium has one of the best strength-to-weight ratios of
-                    any metal, making these our{" "}
+                    Titanul are unul dintre cele mai bune rapoarte rezistență-greutate dintre toate metalele, făcând aceste modele{" "}
                     <span className="text-white">
-                      lightest Pro models ever.
+                      cele mai ușoare modele Pro de până acum.
                     </span>{" "}
-                    You&apos;ll notice the difference the moment you pick one
-                    up.
+                    Vei observa diferența din momentul în care îl vei ține în mână.
                   </p>
                 </div>
               </div>

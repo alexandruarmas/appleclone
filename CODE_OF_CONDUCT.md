@@ -1,116 +1,116 @@
-# Code of Conduct - Apple Clone
+# Cod de Conduită - Apple Clone
 
-## Our Pledge
+## Angajamentul Nostru
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to make participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+În interesul promovării unui mediu deschis și primitor, noi, în calitate de 
+contributori și întreținători, ne angajăm să facem participarea la proiectul nostru și 
+comunitatea noastră o experiență lipsită de hărțuire pentru toți, indiferent de vârstă, dimensiune 
+corporală, dizabilitate, etnie, caracteristici sexuale, identitate și expresie de gen,
+nivel de experiență, educație, statut socio-economic, naționalitate, aspect 
+personal, rasă, religie sau identitate și orientare sexuală.
 
-## Our Standards
+## Standardele Noastre
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+Exemple de comportament care contribuie la crearea unui mediu pozitiv pentru
+comunitatea noastră includ:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-overall community
+* Demonstrarea empatiei și bunătății față de alți oameni
+* Respectarea opiniilor, punctelor de vedere și experiențelor diferite
+* Oferirea și acceptarea cu grație a feedback-ului constructiv
+* Acceptarea responsabilității și scuzele adresate celor afectați de greșelile noastre,
+și învățarea din experiență
+* Concentrarea pe ceea ce este mai bun nu doar pentru noi ca indivizi, dar pentru
+întreaga comunitate
 
-Examples of unacceptable behavior include:
+Exemple de comportament inacceptabil includ:
 
-* The use of sexualized language or imagery, and sexual attention or
-advances
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-professional setting
+* Utilizarea de limbaj sau imagini sexualizate, și atenție sau 
+avansuri sexuale
+* Trolling, comentarii insultătoare sau derogatoare și atacuri personale sau politice
+* Hărțuire publică sau privată
+* Publicarea informațiilor private ale altora, cum ar fi o adresă fizică sau de email,
+fără permisiunea lor explicită
+* Alte comportamente care ar putea fi considerate în mod rezonabil ca fiind nepotrivite într-un
+cadru profesional
 
-## Our Responsibilities
+## Responsabilitățile Noastre
 
-Project maintainers are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate,
-threatening, offensive, or harmful.
+Întreținătorii proiectului sunt responsabili pentru clarificarea și aplicarea standardelor noastre de
+comportament acceptabil și vor lua măsuri corective adecvate și corecte în
+răspuns la orice comportament pe care îl consideră inadecvat,
+amenințător, ofensator sau dăunător.
 
-Project maintainers have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will
-communicate reasons for moderation decisions when appropriate.
+Întreținătorii proiectului au dreptul și responsabilitatea de a elimina, edita sau respinge
+comentarii, commit-uri, cod, modificări wiki, probleme și alte contribuții care nu sunt
+aliniate cu acest Cod de Conduită, și vor
+comunica motivele deciziilor de moderare atunci când este necesar.
 
-## Scope
+## Domeniul de Aplicare
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+Acest Cod de Conduită se aplică în toate spațiile comunității și se aplică, de asemenea, când
+o persoană reprezintă oficial comunitatea în spații publice.
+Exemple de reprezentare a comunității noastre includ utilizarea unei adrese oficiale de email,
+postarea prin intermediul unui cont oficial de social media sau acționarea ca reprezentant desemnat
+la un eveniment online sau offline.
 
-## Enforcement
+## Aplicare
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at .
-All complaints will be reviewed and investigated promptly and fairly.
+Cazurile de comportament abuziv, hărțuitor sau altfel inacceptabil pot fi
+raportate liderilor comunității responsabili pentru aplicare la contact@alexandruarmas.ro.
+Toate plângerile vor fi examinate și investigate prompt și echitabil.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+Toți liderii comunității sunt obligați să respecte confidențialitatea și securitatea
+raportorului oricărui incident.
 
-## Enforcement Guidelines
+## Ghid de Aplicare
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+Liderii comunității vor urma aceste Ghiduri de Impact Comunitar în determinarea
+consecințelor pentru orice acțiune pe care o consideră o încălcare a acestui Cod de Conduită:
 
-### 1. Correction
+### 1. Corectare
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+**Impact Comunitar**: Utilizarea de limbaj inadecvat sau alt comportament considerat
+neprofesional sau nedorit în comunitate.
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+**Consecință**: Un avertisment privat, scris din partea liderilor comunității, oferind
+claritate cu privire la natura încălcării și o explicație a motivului pentru care
+comportamentul a fost inadecvat. S-ar putea solicita o scuză publică.
 
-### 2. Warning
+### 2. Avertisment
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+**Impact Comunitar**: O încălcare printr-un singur incident sau serie
+de acțiuni.
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+**Consecință**: Un avertisment cu consecințe pentru comportamentul continuu. Nicio
+interacțiune cu persoanele implicate, inclusiv interacțiune nesolicitat cu
+cei care aplică Codul de Conduită, pentru o perioadă specificată de timp. Aceasta
+include evitarea interacțiunilor în spațiile comunității, precum și în canalele externe
+precum social media. Încălcarea acestor termeni poate duce la o interdicție temporară sau
+permanentă.
 
-### 3. Temporary Ban
+### 3. Interzicere Temporară
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+**Impact Comunitar**: O încălcare gravă a standardelor comunității, inclusiv
+comportament inadecvat susținut.
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+**Consecință**: O interzicere temporară a oricărui tip de interacțiune sau comunicare
+publică cu comunitatea pentru o perioadă specificată de timp. Nicio interacțiune publică sau
+privată cu persoanele implicate, inclusiv interacțiune nesolicitat cu
+cei care aplică Codul de Conduită, nu este permisă în această perioadă.
+Încălcarea acestor termeni poate duce la o interdicție permanentă.
 
-### 4. Permanent Ban
+### 4. Interzicere Permanentă
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+**Impact Comunitar**: Demonstrarea unui model de încălcare a standardelor comunității,
+inclusiv comportament inadecvat susținut, hărțuirea unei
+persoane sau agresiune sau denigrare a unor clase de persoane.
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+**Consecință**: O interdicție permanentă de la orice fel de interacțiune publică în cadrul
+comunității.
 
-## Attribution
+## Atribuire
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://contributor-covenant.org/), version
-[1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct/code_of_conduct.md) and
+Acest Cod de Conduită este adaptat din [Contributor Covenant](https://contributor-covenant.org/), versiunea
+[1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct/code_of_conduct.md) și
 [2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md),
-and was generated by [contributing-gen](https://github.com/bttger/contributing-gen).
+și a fost generat de [contributing-gen](https://github.com/bttger/contributing-gen).

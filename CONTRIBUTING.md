@@ -1,117 +1,117 @@
 <!-- omit in toc -->
-# Contributing to Apple Clone
+# Contribuții la Apple Clone
 
-First off, thanks for taking the time to contribute! ❤️
+În primul rând, îți mulțumim că îți dedici timpul pentru a contribui! ❤️
 
-All types of contributions are encouraged and valued. See the [Table of Contents](#table-of-contents) for different ways to help and details about how this project handles them. Please make sure to read the relevant section before making your contribution. It will make it a lot easier for us maintainers and smooth out the experience for all involved. The community looks forward to your contributions. 🎉
+Toate tipurile de contribuții sunt încurajate și apreciate. Consultă [Cuprinsul](#cuprins) pentru diferite modalități de a ajuta și detalii despre modul în care acest proiect le gestionează. Te rugăm să te asiguri că citești secțiunea relevantă înainte de a-ți aduce contribuția. Acest lucru va face mult mai ușoară munca pentru noi, cei care întreținem proiectul, și va îmbunătăți experiența pentru toți cei implicați. Comunitatea așteaptă cu nerăbdare contribuțiile tale. 🎉
 
-> And if you like the project, but just don't have time to contribute, that's fine. There are other easy ways to support the project and show your appreciation, which we would also be very happy about:
-> - Star the project
-> - Tweet about it
-> - Refer this project in your project's readme
-> - Mention the project at local meetups and tell your friends/colleagues
-
-<!-- omit in toc -->
-## Table of Contents
-
-- [Code of Conduct](#code-of-conduct)
-- [I Have a Question](#i-have-a-question)
-- [I Want To Contribute](#i-want-to-contribute)
-- [Reporting Bugs](#reporting-bugs)
-- [Suggesting Enhancements](#suggesting-enhancements)
-- [Your First Code Contribution](#your-first-code-contribution)
-- [Improving The Documentation](#improving-the-documentation)
-- [Styleguides](#styleguides)
-- [Commit Messages](#commit-messages)
-- [Join The Project Team](#join-the-project-team)
-
-
-## Code of Conduct
-
-This project and everyone participating in it is governed by the
-[Apple Clone Code of Conduct](https://github.com/sanidhyy/apple-cloneblob/master/CODE_OF_CONDUCT.md).
-By participating, you are expected to uphold this code. Please report unacceptable behavior
-to .
-
-
-## I Have a Question
-
-> If you want to ask a question, we assume that you have read the available [Documentation](https://github.com/sanidhyy/apple-clone/wiki).
-
-Before you ask a question, it is best to search for existing [Issues](https://github.com/sanidhyy/apple-clone/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
-
-If you then still feel the need to ask a question and need clarification, we recommend the following:
-
-- Open an [Issue](https://github.com/sanidhyy/apple-clone/issues/new).
-- Provide as much context as you can about what you're running into.
-- Provide project and platform versions (nodejs, npm, etc), depending on what seems relevant.
-
-We will then take care of the issue as soon as possible.
-
-## I Want To Contribute
-
-> ### Legal Notice <!-- omit in toc -->
-> When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content and that the content you contribute may be provided under the project license.
-
-### Reporting Bugs
+> Și dacă îți place proiectul, dar nu ai timp să contribui, nu-i nimic. Există alte modalități simple de a susține proiectul și de a-ți arăta aprecierea, lucru care ne-ar bucura foarte mult:
+> - Dă o stea proiectului
+> - Postează despre el pe Twitter
+> - Menționează acest proiect în README-ul proiectului tău
+> - Vorbește despre proiect la întâlnirile locale și spune-le prietenilor/colegilor tăi
 
 <!-- omit in toc -->
-#### Before Submitting a Bug Report
+## Cuprins
 
-A good bug report shouldn't leave others needing to chase you up for more information. Therefore, we ask you to investigate carefully, collect information and describe the issue in detail in your report. Please complete the following steps in advance to help us fix any potential bug as fast as possible.
+- [Codul de Conduită](#codul-de-conduită)
+- [Am o Întrebare](#am-o-întrebare)
+- [Vreau să Contribui](#vreau-să-contribui)
+- [Raportarea Erorilor](#raportarea-erorilor)
+- [Sugerarea Îmbunătățirilor](#sugerarea-îmbunătățirilor)
+- [Prima ta Contribuție de Cod](#prima-ta-contribuție-de-cod)
+- [Îmbunătățirea Documentației](#îmbunătățirea-documentației)
+- [Stiluri de Cod](#stiluri-de-cod)
+- [Mesaje de Commit](#mesaje-de-commit)
+- [Alătură-te Echipei Proiectului](#alătură-te-echipei-proiectului)
 
-- Make sure that you are using the latest version.
-- Determine if your bug is really a bug and not an error on your side e.g. using incompatible environment components/versions (Make sure that you have read the [documentation](https://github.com/sanidhyy/apple-clone/wiki). If you are looking for support, you might want to check [this section](#i-have-a-question)).
-- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [bug tracker](https://github.com/sanidhyy/apple-cloneissues?q=label%3Abug).
-- Also make sure to search the internet (including Stack Overflow) to see if users outside of the GitHub community have discussed the issue.
-- Collect information about the bug:
-- Stack trace (Traceback)
-- OS, Platform and Version (Windows, Linux, macOS, x86, ARM)
-- Version of the interpreter, compiler, SDK, runtime environment, package manager, depending on what seems relevant.
-- Possibly your input and the output
-- Can you reliably reproduce the issue? And can you also reproduce it with older versions?
 
-<!-- omit in toc -->
-#### How Do I Submit a Good Bug Report?
+## Codul de Conduită
 
-> You must never report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to .
+Acest proiect și toți participanții la el sunt guvernați de
+[Codul de Conduită Apple Clone](https://github.com/mrarmas02/apple-clone/blob/master/CODE_OF_CONDUCT.md).
+Prin participare, se așteaptă să respecți acest cod. Te rugăm să raportezi comportamentul inacceptabil
+la contact@alexandruarmas.ro.
 
-We use GitHub issues to track bugs and errors. If you run into an issue with the project:
 
-- Open an [Issue](https://github.com/sanidhyy/apple-clone/issues/new). (Since we can't be sure at this point whether it is a bug or not, we ask you not to talk about a bug yet and not to label the issue.)
-- Explain the behavior you would expect and the actual behavior.
-- Please provide as much context as possible and describe the *reproduction steps* that someone else can follow to recreate the issue on their own. This usually includes your code. For good bug reports you should isolate the problem and create a reduced test case.
-- Provide the information you collected in the previous section.
+## Am o Întrebare
 
-Once it's filed:
+> Dacă vrei să pui o întrebare, presupunem că ai citit [Documentația](https://github.com/mrarmas02/apple-clone/wiki) disponibilă.
 
-- The project team will label the issue accordingly.
-- A team member will try to reproduce the issue with your provided steps. If there are no reproduction steps or no obvious way to reproduce the issue, the team will ask you for those steps and mark the issue as `needs-repro`. Bugs with the `needs-repro` tag will not be addressed until they are reproduced.
-- If the team is able to reproduce the issue, it will be marked `needs-fix`, as well as possibly other tags (such as `critical`), and the issue will be left to be [implemented by someone](#your-first-code-contribution).
+Înainte de a pune o întrebare, este mai bine să cauți [Problemele](https://github.com/mrarmas02/apple-clone/issues) existente care te-ar putea ajuta. În cazul în care ai găsit o problemă potrivită și totuși ai nevoie de clarificări, poți să-ți scrii întrebarea în această problemă. De asemenea, este recomandat să cauți răspunsuri pe internet mai întâi.
 
-### Suggesting Enhancements
+Dacă apoi simți încă nevoia să pui o întrebare și ai nevoie de clarificări, recomandăm următoarele:
 
-This section guides you through submitting an enhancement suggestion for Apple Clone, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestion and find related suggestions.
+- Deschide o [Problemă](https://github.com/mrarmas02/apple-clone/issues/new).
+- Oferă cât mai mult context despre ceea ce întâmpini.
+- Furnizează versiunile proiectului și platformei (nodejs, npm, etc), în funcție de ce pare relevant.
 
-<!-- omit in toc -->
-#### Before Submitting an Enhancement
+Ne vom ocupa de problemă cât mai curând posibil.
 
-- Make sure that you are using the latest version.
-- Read the [documentation](https://github.com/sanidhyy/apple-clone/wiki) carefully and find out if the functionality is already covered, maybe by an individual configuration.
-- Perform a [search](https://github.com/sanidhyy/apple-clone/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
-- Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. If you're just targeting a minority of users, consider writing an add-on/plugin library.
+## Vreau să Contribui
+
+> ### Notă Legală <!-- omit in toc -->
+> Când contribui la acest proiect, trebuie să fii de acord că ești autorul a 100% din conținut, că ai drepturile necesare asupra conținutului și că conținutul pe care îl contribui poate fi furnizat sub licența proiectului.
+
+### Raportarea Erorilor
 
 <!-- omit in toc -->
-#### How Do I Submit a Good Enhancement Suggestion?
+#### Înainte de a Trimite un Raport de Eroare
 
-Enhancement suggestions are tracked as [GitHub issues](https://github.com/sanidhyy/apple-clone/issues).
+Un raport bun de eroare nu ar trebui să lase pe alții să te contacteze pentru mai multe informații. De aceea, te rugăm să investighezi cu atenție, să colectezi informații și să descrii problema în detaliu în raportul tău. Te rugăm să completezi următorii pași în avans pentru a ne ajuta să rezolvăm orice potențială eroare cât mai repede posibil.
 
-- Use a **clear and descriptive title** for the issue to identify the suggestion.
-- Provide a **step-by-step description of the suggested enhancement** in as many details as possible.
-- **Describe the current behavior** and **explain which behavior you expected to see instead** and why. At this point you can also tell which alternatives do not work for you.
-- You may want to **include screenshots and animated GIFs** which help you demonstrate the steps or point out the part which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux. <!-- this should only be included if the project has a GUI -->
-- **Explain why this enhancement would be useful** to most Apple Clone users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
+- Asigură-te că folosești cea mai recentă versiune.
+- Determină dacă eroarea ta este într-adevăr o eroare și nu o greșeală din partea ta, de exemplu folosind componente/versiuni de mediu incompatibile (Asigură-te că ai citit [documentația](https://github.com/mrarmas02/apple-clone/wiki). Dacă cauți asistență, poate vrei să verifici [această secțiune](#am-o-întrebare)).
+- Pentru a vedea dacă alți utilizatori au experimentat (și eventual au rezolvat deja) aceeași problemă pe care o ai tu, verifică dacă nu există deja un raport de eroare pentru problema sau eroarea ta în [tracker-ul de erori](https://github.com/mrarmas02/apple-cloneissues?q=label%3Abug).
+- De asemenea, asigură-te că cauți pe internet (inclusiv Stack Overflow) pentru a vedea dacă utilizatorii din afara comunității GitHub au discutat despre problemă.
+- Colectează informații despre eroare:
+- Traseu de stivă (Traceback)
+- Sistemul de operare, platforma și versiunea (Windows, Linux, macOS, x86, ARM)
+- Versiunea interpretorului, compilatorului, SDK, mediul de execuție, managerul de pachete, în funcție de ce pare relevant.
+- Eventual inputul tău și outputul
+- Poți reproduce problema în mod fiabil? Și o poți reproduce și cu versiuni mai vechi?
 
 <!-- omit in toc -->
-## Attribution
-This guide is based on the **contributing-gen**. [Make your own](https://github.com/bttger/contributing-gen)!
+#### Cum Trimit un Raport Bun de Eroare?
+
+> Nu trebuie niciodată să raportezi probleme legate de securitate, vulnerabilități sau erori care includ informații sensibile în tracker-ul de probleme sau în altă parte în public. În schimb, erorile sensibile trebuie trimise prin email la contact@alexandruarmas.ro.
+
+Folosim problemele GitHub pentru a urmări erorile. Dacă întâmpini o problemă cu proiectul:
+
+- Deschide o [Problemă](https://github.com/mrarmas02/apple-clone/issues/new). (Deoarece nu putem fi siguri în acest moment dacă este o eroare sau nu, te rugăm să nu vorbești încă despre o eroare și să nu etichetezi problema.)
+- Explică comportamentul pe care l-ai aștepta și comportamentul real.
+- Te rugăm să oferi cât mai mult context posibil și să descrii *pașii de reproducere* pe care altcineva îi poate urma pentru a recrea problema pe cont propriu. Acest lucru include de obicei codul tău. Pentru rapoarte bune de erori ar trebui să izolezi problema și să creezi un caz de test redus.
+- Oferă informațiile pe care le-ai colectat în secțiunea anterioară.
+
+Odată ce este depusă:
+
+- Echipa proiectului va eticheta problema în mod corespunzător.
+- Un membru al echipei va încerca să reproducă problema cu pașii tăi furnizați. Dacă nu există pași de reproducere sau nicio modalitate evidentă de a reproduce problema, echipa îți va cere acești pași și va marca problema ca `needs-repro`. Erorile cu eticheta `needs-repro` nu vor fi abordate până când nu sunt reproduse.
+- Dacă echipa poate reproduce problema, aceasta va fi marcată `needs-fix`, precum și posibil alte etichete (cum ar fi `critical`), iar problema va fi lăsată să fie [implementată de cineva](#prima-ta-contribuție-de-cod).
+
+### Sugerarea Îmbunătățirilor
+
+Această secțiune te ghidează prin trimiterea unei sugestii de îmbunătățire pentru Apple Clone, **inclusiv caracteristici complet noi și îmbunătățiri minore ale funcționalității existente**. Urmarea acestor orientări va ajuta întreținătorii și comunitatea să înțeleagă sugestia ta și să găsească sugestii conexe.
+
+<!-- omit in toc -->
+#### Înainte de a Trimite o Îmbunătățire
+
+- Asigură-te că folosești cea mai recentă versiune.
+- Citește cu atenție [documentația](https://github.com/mrarmas02/apple-clone/wiki) și află dacă funcționalitatea este deja acoperită, poate printr-o configurație individuală.
+- Efectuează o [căutare](https://github.com/mrarmas02/apple-clone/issues) pentru a vedea dacă îmbunătățirea a fost deja sugerată. Dacă a fost, adaugă un comentariu la problema existentă în loc să deschizi una nouă.
+- Află dacă ideea ta se potrivește cu scopul și obiectivele proiectului. Este responsabilitatea ta să convingi dezvoltatorii proiectului de meritele acestei caracteristici. Ține cont că vrem caracteristici care vor fi utile majorității utilizatorilor noștri și nu doar unui subset mic. Dacă vizezi doar o minoritate de utilizatori, ia în considerare scrierea unei biblioteci add-on/plugin.
+
+<!-- omit in toc -->
+#### Cum Trimit o Sugestie Bună de Îmbunătățire?
+
+Sugestiile de îmbunătățire sunt urmărite ca [probleme GitHub](https://github.com/mrarmas02/apple-clone/issues).
+
+- Folosește un **titlu clar și descriptiv** pentru problemă pentru a identifica sugestia.
+- Oferă o **descriere pas cu pas a îmbunătățirii sugerate** cu cât mai multe detalii posibil.
+- **Descrie comportamentul actual** și **explică ce comportament te așteptai să vezi în schimb** și de ce. În acest moment poți, de asemenea, să spui ce alternative nu funcționează pentru tine.
+- Este posibil să vrei să **incluzi capturi de ecran și GIF-uri animate** care te ajută să demonstrezi pașii sau să evidențiezi partea la care se referă sugestia. Poți folosi [acest instrument](https://www.cockos.com/licecap/) pentru a înregistra GIF-uri pe macOS și Windows, și [acest instrument](https://github.com/colinkeenan/silentcast) sau [acest instrument](https://github.com/GNOME/byzanz) pe Linux. <!-- aceasta ar trebui inclusă numai dacă proiectul are o interfață grafică -->
+- **Explică de ce această îmbunătățire ar fi utilă** pentru majoritatea utilizatorilor Apple Clone. De asemenea, poate vrei să evidențiezi alte proiecte care au rezolvat-o mai bine și care ar putea servi drept inspirație.
+
+<!-- omit in toc -->
+## Atribuire
+Acest ghid se bazează pe **contributing-gen**. [Creează-ți propriul ghid](https://github.com/bttger/contributing-gen)!
