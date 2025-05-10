@@ -30,7 +30,6 @@
 - [Contribuie](#raised_hands-contribuie)
 - [Mulțumiri](#gem-mulțumiri)
 - [Cumpără-mi o Cafea](#coffee-cumpără-mi-o-cafea)
-- [Urmărește-mă](#rocket-urmărește-mă)
 - [Află Mai Multe](#books-află-mai-multe)
 - [Implementează pe Netlify](#page_with_curl-implementează-pe-netlify)
 - [Dă o Stea](#star-dă-o-stea)
@@ -150,12 +149,6 @@ Resurse utile și dependențe folosite în Apple Clone.
 ## :coffee: Cumpără-mi o Cafea
 
 [<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/alexandruarmas "Cumpără-mi o Cafea")
-
-## :rocket: Urmărește-mă
-
-[![Urmărește-mă](https://img.shields.io/github/followers/mrarmas02?style=social&label=Follow&maxAge=2592000)](https://github.com/mrarmas02 "Urmărește-mă")
-[![Tweet despre acest proiect](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmrarmas02)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fmrarmas02%2Fapple-clone "Tweet despre acest proiect")
-[![Abonează-te la Canalul meu YouTube](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@ARM-Studios/?sub_confirmation=1 "Abonează-te la Canalul meu YouTube")
 
 ## :books: Află Mai Multe
 
