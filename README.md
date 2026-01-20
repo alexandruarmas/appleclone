@@ -5,12 +5,12 @@
 ![Modern website inspired by iPhone 15 using Three.js and GSAP animations.](/.github/images/img_main.png "Site modern inspirat de iPhone 15 folosind animații Three.js și GSAP.")
 
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/mrarmas02 "Ask Me Anything!")
-[![GitHub License](https://flat.badgen.net/github/license/mrarmas02/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/mrarmas02/apple-clone/blob/main/LICENSE "GitHub License")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/mrarmas02/apple-clone/commits/main "Maintenance")
-[![GitHub Branches](https://flat.badgen.net/github/branches/mrarmas02/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/mrarmas02/apple-clone/branches "GitHub Branches")
-[![GitHub Commits](https://flat.badgen.net/github/commits/mrarmas02/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/mrarmas02/apple-clone/commits "GitHub Commits")
-[![GitHub Issues](https://flat.badgen.net/github/issues/mrarmas02/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/mrarmas02/apple-clone/issues "GitHub Issues")
-[![GitHub Pull Requests](https://flat.badgen.net/github/prs/mrarmas02/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/mrarmas02/apple-clone/pulls "GitHub Pull Requests")
+[![GitHub License](https://flat.badgen.net/github/license/mrarmas02/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/alexandruarmas/appleclone/blob/main/LICENSE "GitHub License")
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/alexandruarmas/appleclone/commits/main "Maintenance")
+[![GitHub Branches](https://flat.badgen.net/github/branches/mrarmas02/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/alexandruarmas/appleclone/branches "GitHub Branches")
+[![GitHub Commits](https://flat.badgen.net/github/commits/mrarmas02/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/alexandruarmas/appleclone/commits "GitHub Commits")
+[![GitHub Issues](https://flat.badgen.net/github/issues/mrarmas02/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/alexandruarmas/appleclone/issues "GitHub Issues")
+[![GitHub Pull Requests](https://flat.badgen.net/github/prs/mrarmas02/apple-clone?icon=github&color=black&scale=1.01)](https://github.com/alexandruarmas/appleclone/pulls "GitHub Pull Requests")
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e2c95681-9266-4df6-9fec-324951ab778b/deploy-status)](https://alexandruarmas.github.io/appleclone/ "Netlify Status")
 
 <!-- Table of Contents -->
